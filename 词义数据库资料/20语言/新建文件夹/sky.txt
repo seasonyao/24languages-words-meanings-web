@@ -1,0 +1,7 @@
+sky	ciel
+English	French
+	sky
+	heavens
+	blue
+	
+	

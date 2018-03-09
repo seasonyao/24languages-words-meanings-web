@@ -1,0 +1,201 @@
+html,body{height: 100%;width: 100%;}
+body{min-width: 1000px;}
+
+.fixed-bg{
+    background: url(../i/web_team_detail_bg.jpg) no-repeat;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+/*控制滑动条*/
+*::-webkit-scrollbar {
+display: none;
+}
+*::-webkit-scrollbar-thumb {
+display: none;
+}
+    
+/*控制背景*/
+.team_detail_bg{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+/*标题*/
+.team_detail_bg > div{
+    z-index: 1;
+}
+
+.team_detail_title h1{
+    font-weight: normal;
+}
+
+/*各个部门的简介*/
+.team_detail_breif{
+    position: fixed;
+    top: 50%;
+    left: 41px;
+    transform: translateY(-50%);
+}
+
+.breif_item{
+    height: 136px;
+    width: 136px;
+    line-height: 142px;
+    color: #02a5cd;
+    text-align: center;
+    font-family: 微软雅黑;
+    position: relative;
+}
+
+.breif_item > img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    animation: circle_1 15s infinite linear;
+    -webkit-animation: circle_1 15s infinite linear;
+    cursor: pointer;
+}
+
+.breif_item > img:hover{
+    animation: none;
+    -webkit-animation: none;
+}
+
+/*介绍部分*/
+.team_detail_body{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translateX(-50%) translateY(-50%);
+    min-height: 433px;
+    width: 810px;   
+}
+
+.team_detail_body > img{
+    height: 433px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.team_detail_body .body-content{
+    position: absolute;
+    color: white;
+    font-family: "微软雅黑";
+    width: 77%;
+    overflow: auto;
+    padding: 0 63px;
+    background: rgba(2,165,205,0.8);
+    min-height: 400px;
+    border-radius: 10px;
+}
+
+.team_detail_body  .body-content  .title h1{
+    font-weight: normal ;
+}
+
+/*右上角漂浮的tag*/
+.team_detail_tag{
+    position: fixed;
+    right: 69px;
+    top: 62px;
+}
+
+/*右下角的装饰*/
+.team_detail_decorate{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 350px;
+    height: 280px;
+}
+
+.team_detail_decorate > div{
+    position: absolute;
+}
+
+.decorate_1{
+    left: 100px;
+}
+
+.decorate_2{
+    left: 46px;
+    top: 133px;
+}
+
+.decorate_3{
+    top: 90px;
+    left: 149px;
+}
+
+.decorate_4{
+    left: 0;
+    top: 67px;
+}
+
+.decorate_5{
+    left: 80px;
+    top: 168px;
+}
+
+.decorate_1 > img{
+    animation: circle_1 5s infinite linear;
+    -webkit-animation: circle_1 5s infinite linear;
+}
+
+.decorate_2 > img{
+    animation: circle_1 8s infinite linear;
+    -webkit-animation: circle_1 8s infinite linear;
+}
+
+.decorate_3 > img{
+    animation: circle_1 10s infinite linear;
+    -webkit-animation: circle_1 10s infinite linear;
+}
+
+.decorate_4 > img{
+    animation: circle_1 7s infinite linear;
+    -webkit-animation: circle_1 7s infinite linear;
+}
+
+.decorate_5 > img{
+    animation: circle_1 9s infinite linear;
+    -webkit-animation: circle_1 9s infinite linear;
+}
+
+
+/*旋转动画*/
+@-webkit-keyframes circle_1{
+    from {transform: rotate(0);}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes circle_1{
+    from {transform: rotate(0);}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes scale_1{
+    from {width: 0;}
+    to {width: 100%;}
+}
+
+@-webkit-keyframes scale_1{
+    from {width: 0;}
+    to {width: 100%;}
+}
+
+/*背景遮罩*/
+.team_detail_bg_mask{
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: rgba(0,0,0,0.3);
+    z-index: 0 !important;
+}

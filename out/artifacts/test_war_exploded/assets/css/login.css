@@ -1,0 +1,95 @@
+html,body{height: 100%;width: 100%;}
+canvas{position: absolute;left: 0;top: 0;width: 100%;height: 100%;z-index: 1;}
+#login-bg{
+	width: 100%;
+	height: 100%;
+}
+
+.login-container{
+	width: 300px;
+	margin: 0 auto;
+}
+
+.login-icon{
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 54px;
+    z-index: 99;
+}
+
+.am-tabs-login{
+	background: none;
+}
+
+.am-tabs-login .am-tabs-nav li{z-index: 99;}
+.am-tabs-login .am-tabs-nav li a{color: black !important;}
+
+.am-tabs-login .am-tabs-nav li a span{
+    display: block;
+    margin: 0 auto;
+    width: 2em;
+}
+
+.am-tabs-login .am-active span{
+	border-bottom: 2px solid black;
+}
+
+.am-tabs-login .am-tabs-bd{
+	border: none;
+}
+
+/*登陆界面的输入框组的样式*/
+.login-input{
+    height: 40px;
+    width: 100%;
+    position: relative;
+    margin-top: 20px;
+}
+
+.login-input input{
+    width: 100%;
+    height: 100%;
+    padding-left: 35px;
+    font-size: 15px;
+    border: 1px solid #c8c8c8;
+}
+
+.login-input i{
+    position: absolute;
+    left: 10px;
+    top: 0;
+    line-height: 40px;
+    color: #c8c8c8;
+    font-size: 20px;
+}
+
+.check-btn{
+    height: 40px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.check-btn button{
+    height: 100%;
+    width: 100%;
+    background: white;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.signup-info , .login-info{
+	font-size: 15px;
+	width: 100%;
+	text-align: center;
+	color: #a0a0a0;
+}
+
+.login-info a{ color: #a0a0a0 !important;}
+
+.signup-info a{ color: pink !important; }
+
+/*登陆的警告*/
+.login-waring{
+    text-align: center;
+    color: #ff4530;
+}

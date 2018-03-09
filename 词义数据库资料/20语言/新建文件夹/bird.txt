@@ -1,0 +1,5 @@
+bird	oiseau
+English	French
+	bird
+	hod
+	flicker

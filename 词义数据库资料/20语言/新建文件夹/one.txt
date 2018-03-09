@@ -1,0 +1,4 @@
+one	un
+English	French
+	one
+	"a,an"

@@ -1,0 +1,8 @@
+cold	froid
+English	French
+	cold
+	frigid
+	distant
+	cool
+	bleak
+	clammy

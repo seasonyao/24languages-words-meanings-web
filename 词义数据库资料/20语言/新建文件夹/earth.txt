@@ -1,0 +1,10 @@
+earth	terre
+English	French
+	earth
+	globe
+	land
+	ground
+	soil
+	clay
+	estate
+	demesne

@@ -1,0 +1,6 @@
+who	qui
+English	French
+	which
+	that
+	who
+	whom

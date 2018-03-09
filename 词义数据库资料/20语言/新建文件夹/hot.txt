@@ -1,0 +1,8 @@
+hot	chaud
+English	French
+	hot
+	warm
+	cosy
+	sultry
+	
+	

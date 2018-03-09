@@ -1,0 +1,7 @@
+red	rouge
+English	French
+	red
+	scarlet
+	ruddy
+	claret
+	rufous

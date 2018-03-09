@@ -1,0 +1,10 @@
+head	 t¨ºte
+English	French
+	head
+	top
+	lead
+	nut
+	noodle
+	bean
+	pate
+	warhead

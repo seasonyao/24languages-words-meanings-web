@@ -1,0 +1,144 @@
+/*header部分*/
+.am-span-rt{
+	float:right;
+}
+
+.am-user-menu,.am-author-icon{
+	width:39px;
+	border-radius:39px;
+}
+.am-user-menu:hover{
+
+	-webkit-box-shadow: 2px 2px 5px rgba(0,0,0,0.3);  
+    -moz-box-shadow: 2px 2px 5px rgba(0,0,0,0.3);  
+    box-shadow: 2px 2px 2px  rgba(0,0,0,0.3); 
+}
+
+.am-user-dropdown{
+	top:41px;
+}
+
+/*content部分*/
+.am-article-detail{
+
+	background-color: #fff;
+	width:1000px;
+	margin:0 auto;
+}
+
+.am-author-header,#am-article-content,.am-article-content-divider{
+	width: 700px;
+	margin:0 auto;
+}
+/*作者信息*/
+.am-author-header{
+	height:100px;
+
+}
+.am-author-pic,.am-author-mark,.am-name-mark,.am-author-publishdate{
+	float:left;
+	line-height: 100px;
+}
+.am-author-icon{
+	margin:0 10px 0 0;
+}
+.am-author-mark,.am-name-mark,.am-author-publishdate{
+
+	padding:0 5px;
+}
+.am-author-mark{
+	color:#e35555 ;
+}
+.am-name-mark{
+	margin-top: 0;
+}
+.am-author-publishdate{
+	color: #999;
+}
+
+.am-author-follow{
+	float: right;
+	line-height: 110px;
+}
+.am-author-follow a:link{
+	color:#000;
+}
+.am-author-follow a:hover{
+	color:#359123;
+}
+#am-article-title,.am-article-info,.am-article-pic,.am-article-text,.am-article-comment{
+	margin:30px 0;
+}
+/*文章信息*/
+.am-article-detail > img{
+	max-width:100%;
+}
+#am-article-title{
+	font-style: bold;
+	font-size: 32px;
+	color:#000;
+	text-align: center;
+}
+.am-article-info{
+	color:#999;
+	font-size: 12px;
+}
+#am-article-timeAssess{
+	color:#49be38;
+	font-size: 12px;
+}s
+/*配图信息*/
+.am-article-pic{
+	text-align:center;
+}
+#am-article-attachPic{
+	max-width: 400px;
+	text-align: center;
+}
+/*更多文章*/
+.am-article-recommendContainer{
+	background-color: #eee;
+	height: 310px;
+	border-top: 1px #d1d1d1;
+	margin: 0 auto;
+
+}
+.am-recommend-article{
+	max-width: 1000px;
+    margin: 0 auto;
+    height: 100%;
+}
+.am-recommend-nav{
+	margin:0 75px;
+	padding-top: 30px;
+	font-size: 14px;
+}
+.am-recommend-list{
+	margin:20px 150px;
+}
+.am-recomend-list-ul{
+	padding-left: 0 !important;
+}
+.am-recommend-list a:link{
+	color: #000;
+}
+.am-recommend-list-title{
+	list-style-type: none;
+}
+.am-recommend-list-dash{
+	width: 700px;
+	border: none;
+	height: 1px;
+	border-top: dashed #999;
+	margin:15px;
+}
+.am-recommend-icon{
+	width: 36px;
+	border-radius: 36px;
+	float: left;
+	margin: 0 10px;
+}
+.am-recommend-list-title-style{
+	margin: 0 !important;
+	line-height: 36px;
+}

@@ -1,0 +1,9 @@
+stand	supporter
+English	French
+	to stand
+	sustain
+	bear
+	carry
+	suffer
+	abide
+	put up with

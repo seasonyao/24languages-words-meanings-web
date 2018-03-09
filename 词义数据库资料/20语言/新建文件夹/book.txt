@@ -1,0 +1,8 @@
+book	livre
+English	French
+	book
+	paper
+	pound
+	quid
+	work
+	smacker

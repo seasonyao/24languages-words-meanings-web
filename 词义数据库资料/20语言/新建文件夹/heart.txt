@@ -1,0 +1,6 @@
+heart	c?ur
+English	French
+	heart
+	ticker
+	core
+	depth

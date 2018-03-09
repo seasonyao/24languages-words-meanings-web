@@ -1,0 +1,4 @@
+tree	arbre
+English	French
+	shaft
+	tree

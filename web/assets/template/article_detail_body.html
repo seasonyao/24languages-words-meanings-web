@@ -1,0 +1,47 @@
+
+  <div class="am-author-header">
+    <div class="am-author-info">
+      <div class="am-author-pic">
+      <% console.log(HeadIcon) %>
+        <img src="<%- HeadIcon %>" class="am-author-icon">
+      </div>
+      <span class="am-author-name">
+        <p class="am-author-mark">作者</p>
+        <p class="am-name-mark"><%- Writer%></p>
+      </span>
+      <span class="am-author-publishdate">
+        <%- PubDate%>
+      </span>
+    </div>
+    <div class="am-author-follow">
+      <a class="am-dropdown-toggle" data-am-dropdown-toggle="" href="javascript:;">
+      <img  id="am-follow-active" src="/assets/i/author-follow-inactive.png">
+      <span id="am-author-follow-state">添加关注</span>
+      </a>
+    </div>
+    <hr class="am-article-content-divider">
+  </div>
+  <div id="am-article-content" >
+    <h1 id="am-article-title"><%- Title%></h1>
+    <div class="am-article-info">
+      <span id="am-article-wordCount">字数:</span>
+      <span id="am-article-followCount">喜欢:</span>
+      <span id="am-article-readCount">阅读:</span>
+      <div id="am-article-time">
+        <span>阅读本文需要</span>
+        <span id="am-article-timeAssess">3</span>
+        <span>分钟</span>
+      </div>
+    </div>
+    <div class="am-article-pic">
+    </div>
+    <div>
+    <p id="am-article-text"><%- Source %>
+    </p>
+    </div>
+
+    <div id="uyan_frame" class="am-article-comment"></div>
+    <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js"></script>
+  </div>
+</div>
+

@@ -1,0 +1,8 @@
+black	noir
+English	French
+	black
+	dark
+	sable
+	murky
+	raven
+	black man

@@ -1,0 +1,7 @@
+mouth	bouche
+English	French
+	mouth
+	muzzle
+	bazoo
+	manhole
+	pecker

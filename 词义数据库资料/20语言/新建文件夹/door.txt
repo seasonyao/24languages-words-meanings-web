@@ -1,0 +1,7 @@
+door	porte
+English	French
+	door
+	doorway
+	gate
+	gateway
+	hatch

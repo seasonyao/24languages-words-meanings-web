@@ -1,0 +1,9 @@
+time	temps
+English	French
+	time
+	weather
+	day
+	beat
+	era
+	season
+	tense

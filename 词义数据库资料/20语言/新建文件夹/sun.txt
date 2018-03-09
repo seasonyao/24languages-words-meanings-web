@@ -1,0 +1,4 @@
+sun	le Soleil
+English	French
+	sun
+	sunlight

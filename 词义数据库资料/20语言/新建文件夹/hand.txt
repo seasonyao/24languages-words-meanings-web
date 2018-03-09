@@ -1,0 +1,4 @@
+hand	main
+English	French
+	hand
+	duke

@@ -1,0 +1,3 @@
+stone	pierre
+English	French
+	stone

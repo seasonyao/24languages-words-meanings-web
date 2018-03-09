@@ -1,0 +1,4 @@
+ear	oreille
+English	French
+	ear
+	lug

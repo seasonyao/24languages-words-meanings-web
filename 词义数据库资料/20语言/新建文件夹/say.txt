@@ -1,0 +1,7 @@
+say	parler
+English	French
+	talk
+	speak
+	voive
+	converse
+	tongue

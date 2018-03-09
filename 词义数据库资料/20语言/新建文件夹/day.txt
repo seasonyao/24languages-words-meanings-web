@@ -1,0 +1,4 @@
+day	jour
+English	French
+	day
+	daytime

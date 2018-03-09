@@ -1,0 +1,9 @@
+go	aller
+English	French
+	go
+	to proceed
+	travel
+	come
+	do
+	strike off
+	repair

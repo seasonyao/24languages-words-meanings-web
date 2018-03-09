@@ -1,0 +1,5 @@
+I	moi
+English	French
+I	I
+	me
+	us

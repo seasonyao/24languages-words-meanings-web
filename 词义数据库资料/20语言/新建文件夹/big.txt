@@ -1,0 +1,8 @@
+big	grand
+English	French
+	big
+	great
+	wide
+	high
+	substantial
+	loud

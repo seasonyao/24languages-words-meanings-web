@@ -1,0 +1,8 @@
+drink	boire
+English	French
+	imbibe
+	absorb
+	drain
+	quaff
+	ingrain
+	blot

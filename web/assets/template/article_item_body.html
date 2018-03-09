@@ -1,0 +1,50 @@
+<% for(var i=0;i< jsonArray.Content.length;i++){%>
+  <div class="article-part">
+    <div class="author-pic">
+      <img src="<%- jsonArray.Content[i].HeadIcon%>" class="author-pic-size">
+    </div>
+    <div class="article-wrapper">
+
+    <div class="article-board">
+    <div class="author-name">
+      <p class="author-name-pos"><%- jsonArray.Content[i].NickName%></p>
+    </div>
+
+    <div class="article-content">
+      <div class="article-pic">
+        <img src="<%- jsonArray.Content[i].LitPic%>">
+      </div>
+
+      <div class="article-text">
+        <a class="am-dropdown-toggle" data-am-dropdown-toggle="" href="javascript:;">
+        <h1><%- jsonArray.Content[i].Title%></h1>
+        </a>
+        <p><%- $(jsonArray.Content[i].Source).text().trim().substring(0,150) %><a href="/index.php/archive/p/<%- jsonArray.Content[i].ID %>" target="_blank">...</a></p>
+
+      </div>
+    </div>
+
+    <div class="article-below-wrapper">
+      <div class="article-topic">
+        <a class="am-dropdown-toggle" data-am-dropdown-toggle="" href="javascript:;" >
+        <span class="am-icon-tag "></span> <%- jsonArray.Content[i].Tag%>
+        </a>
+      </div>
+
+      <div class="article-follows">
+        <a class="am-dropdown-toggle" data-am-dropdown-toggle="" href="javascript:;" >
+        <span  >
+          <img id="am-heart-active"  src="/assets/i/heart-small.png" >
+        </span>
+        </a>
+        <span id="article-follow-users"><%0%></span>
+      </div>
+      <div class="article-publish-date">
+        <span id="article-user-publish-date" ><%-jsonArray.Content[i].PubDate%></span>
+      </div>
+    </div>
+    </div>
+  </div>
+  </div>
+<%}%>
+

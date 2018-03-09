@@ -1,0 +1,90 @@
+TD {
+	FONT-SIZE: 12px; COLOR: #3e4a59; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"
+}
+.title {
+	BACKGROUND-POSITION: center 50%; FONT-WEIGHT: bold; FONT-SIZE: 18px; LINE-HEIGHT: normal; FONT-FAMILY: "Courier New", "Courier", "mono"; TEXT-ALIGN: center; FONT-VARIANT: normal
+}
+FORM {
+	FONT-SIZE: 12px; COLOR: #3e4a59; FONT-FAMILY: "Verdana"
+}
+INPUT {
+	FONT-SIZE: 12px; COLOR: #3e4a59; FONT-FAMILY: "Verdana"
+}
+SELECT {
+	FONT-SIZE: 12px; COLOR: #3e4a59; FONT-FAMILY: "Verdana"
+}
+.WBT {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"
+}
+.YBT {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff9933; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"
+}
+.en {
+	FONT-SIZE: 11px; COLOR: #3e4a59; LINE-HEIGHT: 20px; FONT-FAMILY: Tahoma, Verdana
+}
+A:link {
+	COLOR: #3e4a59; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #3e4a59; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #3e4a59; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.TBuline:link {
+	FONT-WEIGHT: bold; COLOR: #ff9933; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.TBuline:visited {
+	FONT-WEIGHT: bold; COLOR: #ff9933; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.TBuline:hover {
+	FONT-WEIGHT: bold; COLOR: #ff9933; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.uline:link {
+	COLOR: #3e4a59; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.uline:visited {
+	COLOR: #3e4a59; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.uline:hover {
+	COLOR: #3e4a59; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.w:link {
+	COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.w:visited {
+	COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.w:hover {
+	COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.wb:link {
+	FONT-WEIGHT: bold; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: none
+}
+A.wb:visited {
+	FONT-WEIGHT: bold; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: none
+}
+A.wb:hover {
+	FONT-WEIGHT: bold; COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+A.nav:link {
+	COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: none
+}
+A.nav:visited {
+	COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: none
+}
+A.nav:hover {
+	COLOR: #ffffff; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana"; TEXT-DECORATION: underline
+}
+.f2 {
+	BORDER-RIGHT: 1px ridge; BORDER-TOP: #ffffff 1px ridge; FONT-SIZE: 12px; BORDER-LEFT: #ffffff 1px ridge; BORDER-BOTTOM: 1px ridge; HEIGHT: 14pt; BACKGROUND-COLOR: #cccccc
+}
+.dbt {
+	FONT-WEIGHT: normal; FONT-SIZE: medium; COLOR: #ffffff; LINE-HEIGHT: normal; FONT-FAMILY: "����"
+}
+.gotone {
+	FONT-SIZE: 12px; COLOR: #2650a6
+}
+.blue {
+	FONT-SIZE: 12px; COLOR: #473c74
+}

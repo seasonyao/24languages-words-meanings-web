@@ -1,0 +1,3 @@
+bone	os
+English	French
+	bone

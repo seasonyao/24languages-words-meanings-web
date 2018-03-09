@@ -1,0 +1,5 @@
+long	longue
+English	French
+	long
+	lengthy
+	elongated

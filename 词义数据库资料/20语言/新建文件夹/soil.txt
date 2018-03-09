@@ -1,0 +1,5 @@
+soil	sol
+English	French
+	soil
+	ground
+	floor

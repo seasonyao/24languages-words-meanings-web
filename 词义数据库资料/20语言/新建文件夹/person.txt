@@ -1,0 +1,5 @@
+person	individu
+English	French
+	person
+	fellow
+	party

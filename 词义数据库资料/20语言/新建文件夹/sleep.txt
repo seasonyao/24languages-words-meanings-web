@@ -1,0 +1,4 @@
+sleep	???
+English	Thai
+	to lie down
+	to sleep

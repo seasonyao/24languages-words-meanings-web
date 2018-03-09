@@ -1,0 +1,5 @@
+blood	sang
+English	French
+	blood
+	gore
+	claret

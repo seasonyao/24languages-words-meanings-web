@@ -1,0 +1,7 @@
+rain	pluie
+English	French
+	rain
+	shower
+	wet
+	hail
+	

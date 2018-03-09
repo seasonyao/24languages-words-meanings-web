@@ -1,0 +1,5 @@
+not	non
+English	French
+	no
+	not
+	nope

@@ -1,0 +1,6 @@
+foot	pied
+English	French
+	foot
+	base
+	leg
+	bottom

@@ -1,0 +1,207 @@
+.act_all_body{
+  overflow: auto;
+  text-align: center;
+  background: #eee;
+}
+.act_headers{
+    margin-top: 20px;
+    height: 196px;
+    position: relative;
+   }
+  #act_headers_1{
+    background: url(/assets/i/act_img/activity_head_bg.fw.png);
+  }
+  #act_headers_2{
+    background: url(/assets/i/act_img/act_head_bg.fw.png);
+  }
+  #act_headers_3{
+    background: url(/assets/i/act_img/activity_wenzi_logo.fw.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+  .act_headers_4{
+
+    height: 40px;
+    position: relative;
+    background-color: #BDBDBD;
+    opacity:0.8;
+    top: 140px;
+    text-align: center;
+    width: 100%;
+  }
+.act-spans{
+  height: 26px;
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 8px;
+}
+.diss{
+  color: #000;
+  font-size: 20px;
+  display: inline-block;
+  height:26px;
+  text-align: center;
+}
+#act_span_recent{
+  width: 80px;
+  border-right:solid 3px black;
+  border-bottom-width: 1px;
+}
+
+#act_span_future{
+    width: 80px;
+  border-right:solid 3px black;
+}
+#act_span_interst{
+    width: 100px;
+  border-right:solid 3px black;
+}
+#act_span_ganhuo{
+    width: 80px;
+}
+.act_headcontent{
+
+  padding-top: 5px;
+  text-align: center;
+  display: inline-block;
+}
+#nav {
+      display: none;
+      width:50px; 
+      height: 50px; 
+      position:fixed;
+      right:18%;
+      top:80%;
+      border-radius: 8px;
+      box-shadow: #ddd 5px 5px 10px;
+      background: url(/assets/i/act_img/activity_float_button.fw.png);
+      }
+.head_month{
+  font-size: 40px;
+  padding-top: 40px;
+}
+  .the_act_body
+    {   
+    width: 1000px;
+    padding-top: 20px;
+    background: #eee;
+    position: relative;
+    display: inline-block; 
+    text-align: center;
+    }
+    .the_act_bodys
+    {   
+    width: 1000px;
+    padding-top: 20px;
+    background: #eee;
+    position: relative;
+    display: inline-block; 
+    text-align: center;
+    }
+.js-load-more{
+  left: 10px;
+  position: relative;
+  padding:0 15px;
+  width:990px;
+  height:60px;
+  background-color:#D31733;
+  color:#fff;
+  line-height:30px;
+  text-align:center;
+  border-radius:5px;
+  margin:20px auto;
+  border:0 none;
+  font-size:30px;
+
+}
+
+
+
+.activitybody{
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 226px;
+    height: 340px;
+    background: #fff;
+    position: relative;
+    display: inline-block; 
+    border-radius: 8px;
+    box-shadow: #666 0px 0px 10px;
+    text-align: left;
+  }
+.act_user{
+    position: relative;
+    display: inline-block; 
+  }
+  #act_photo_and_name{
+    position: relative;
+    margin-left: 10px;
+  }
+  #act_user_name{
+    left: 10px;
+    font-size: 15px;
+    height:10px;
+  }
+  .activity_poster
+  {
+     margin-top: 5px;
+     width: 226px;
+     height: 168px;
+     overflow:hidden;
+  }
+  .ativitytitle{
+     width: 228px;
+     height: 16px;
+     font-size: 25px;
+     margin-top: 10px;
+     margin-left: 5px;
+  }
+  .activity_detail_info{
+      position: relative;
+      width: 100%;
+      padding:0 2%;  
+
+  }
+  .activity_info_time{
+       height: 20px;
+       position: relative;
+       display: inline-block; 
+  }
+   #activity_info_time{
+       color: #c8c8c8;
+       margin-top: 18px;
+       left: 10px;
+       height: 20px;
+       position: relative;
+  }
+  .activity_info_location{
+       height: 20px;
+       position: relative;
+       display: inline-block; 
+  }
+  #activity_info_location{
+       color: #c8c8c8;
+       margin-top:5px;
+       left: 10px;
+       height: 20px;
+       position: relative;
+  }
+  .activity_info_operation{
+       height: 20px;
+       position: relative;
+       display: inline-block; 
+  }
+  #activity_info_operation{
+       color: #c8c8c8;
+       margin-top:5px;
+       height: 20px;
+       position: relative;
+       display: inline-block; 
+       left: 10px;
+  }
+  #activity_info_operation_looked{
+       margin-left: 15px;
+       height: 20px;
+       position: relative;
+  }

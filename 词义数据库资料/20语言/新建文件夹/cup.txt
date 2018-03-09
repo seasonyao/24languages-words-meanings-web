@@ -1,0 +1,6 @@
+cup	coupe
+English	French
+	cup
+	section
+	haircut
+	dish

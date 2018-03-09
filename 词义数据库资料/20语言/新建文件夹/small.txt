@@ -1,0 +1,9 @@
+С	small
+Chinese	English
+small	petit
+English	French
+	small
+	little
+	short
+	quiet
+	child

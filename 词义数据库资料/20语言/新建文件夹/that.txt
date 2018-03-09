@@ -1,0 +1,6 @@
+that	ce
+English	French
+	that
+	this
+	that
+	it

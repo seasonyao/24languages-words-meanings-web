@@ -1,0 +1,11 @@
+give	donner
+English	French
+	to give
+	hand
+	yield
+	render
+	donate
+	impart
+	furnish
+	give out
+	deal

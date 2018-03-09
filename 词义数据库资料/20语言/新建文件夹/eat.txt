@@ -1,0 +1,10 @@
+eat	manger
+English	French
+	to eat
+	run through
+	feed
+	meal
+	drink
+	mouth
+	manage
+	make

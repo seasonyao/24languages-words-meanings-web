@@ -1,0 +1,6 @@
+dog	chien
+English	French
+	dog
+	hound
+	cock
+	hanger

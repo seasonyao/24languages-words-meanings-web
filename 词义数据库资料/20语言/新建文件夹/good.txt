@@ -1,0 +1,9 @@
+good	bon
+English	French
+	good
+	well
+	nice
+	right
+	lovely
+	comfortable
+	favorable

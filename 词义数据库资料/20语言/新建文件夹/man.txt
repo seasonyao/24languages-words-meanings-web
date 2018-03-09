@@ -1,0 +1,8 @@
+man	homme
+English	French
+	man
+	human being
+	person
+	fellow
+	lad
+	one

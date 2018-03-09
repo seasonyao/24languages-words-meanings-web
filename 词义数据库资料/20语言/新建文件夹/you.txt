@@ -1,0 +1,5 @@
+you	toi
+English	French
+	you
+	thee
+	thou

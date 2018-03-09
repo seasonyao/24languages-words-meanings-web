@@ -1,0 +1,6 @@
+white	blanc
+English	French
+	white
+	blank
+	albescent
+	snow-white

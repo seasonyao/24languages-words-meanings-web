@@ -1,0 +1,8 @@
+old	vieux
+English	French
+	old
+	ancient
+	aged
+	obsolete
+	outdated
+	old man

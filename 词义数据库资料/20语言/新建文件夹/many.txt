@@ -1,0 +1,8 @@
+many	beaucoup
+English	French
+	many
+	much
+	far
+	plenty
+	so much
+	widely

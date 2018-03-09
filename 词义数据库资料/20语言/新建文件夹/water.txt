@@ -1,0 +1,5 @@
+water	eau
+English	French
+	water
+	wet
+	aqua

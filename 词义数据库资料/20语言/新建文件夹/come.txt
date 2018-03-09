@@ -1,0 +1,5 @@
+come	venir
+English	French
+	to come
+	be
+	reach

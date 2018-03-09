@@ -1,0 +1,9 @@
+new	nouveau
+English	French
+	new
+	novel
+	young
+	further
+	latest
+	fresh
+	ingoing

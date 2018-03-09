@@ -1,0 +1,11 @@
+die	mourir
+English	French
+	perish
+	pass away
+	snuff it
+	end
+	die off
+	be dying
+	depart
+	check out
+	wilt

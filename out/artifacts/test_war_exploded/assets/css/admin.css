@@ -1,0 +1,39 @@
+body{margin:0px;background-color:#E7E8EB;}
+li{list-style:none;}
+
+
+/*主体部分*/
+.main{width:1200px;height: 1000px;margin:90px auto auto auto;background-color:white;}
+
+/*左边*/
+.left{width:210px;height:1000px;border:1px solid #D9DADC; float: left;}
+.manage{width:100%;height:25px;margin-top:30px;}
+.manage img{margin-left:23px;}
+.manage-list{margin-left:-33px;}
+.manage-list li{width:210px;height:50px;font-size:15px;}
+.manage-list li a{padding-left:50px;color:black;}
+.manage-list li:hover{background-color:#E6E6E6;cursor:pointer;}
+
+/*右边*/
+.right{width:990px;height:1000px;border:1px solid #D9DADC;float: right;}
+.info{width:957px;height:125px;margin-top:20px;margin-left:16px;}
+.new-info{width:311px;height:100%;border-left:1px solid #6EB0DD;border-top:1px solid #6EB0DD;border-bottom:1px solid #6EB0DD;background-color:#7CBAE5;float:left;}
+.new-info:hover{background-color:#6EB0DD;cursor:pointer;}
+.new-user{width:311px;height:100%;border-right:1px solid #6EB0DD;border-top:1px solid #6EB0DD;border-bottom:1px solid #6EB0DD;background-color:#7CBAE5;float:left;}
+.new-user:hover{background-color:#6EB0DD;cursor:pointer;}
+.total-user{width:325px;height:100%;margin-left:10px;border:1px solid #57C78B;background-color:#60D295;float:left;}
+.total-user:hover{background-color:#57C78B;cursor:pointer;}
+
+.center1{width:100%;height:72px;margin-top:30px;border-right:1px solid #6EB0DD;text-align:center;}
+.center2{width:100%;height:72px;margin-top:30px;text-align:center;}
+.center3{width:100%;height:72px;margin-top:30px;text-align:center;}
+.data{font-size:30px;margin-bottom:-30px;color:white;}
+.txt{color:white;font-size:20px;}
+
+
+.contents{width:957px;margin-left:16px;clear:both;}
+.row{width:957px;height:40px;margin-left:-33px;border-bottom:1px solid #E7E7EB;border-left:1px solid #E7E7EB;border-right:1px solid #E7E7EB;background-color:white;line-height:40px;}
+.content{padding-left:20px;}
+.time{color:#9B8D9B;float:right;margin-right:20px;}
+.contents li:hover{background-color:#F4F5F9;cursor:pointer;color:#7CBAE5;}
+.jump{float:right;margin-right:20px;}
